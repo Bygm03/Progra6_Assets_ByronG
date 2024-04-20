@@ -1,0 +1,6 @@
+@Progra6_Assets_ByronG_HostAddress = http://localhost:5226
+
+GET {{Progra6_Assets_ByronG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

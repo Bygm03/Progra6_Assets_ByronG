@@ -1,0 +1,6 @@
+﻿Cadena de conexión:
+"SERVER=.;DATABASE=Progra620241;INTEGRATED SECURITY=FALSE; TrustServerCertificate=True; Trusted_Connection=true; encrypt=false; User Id=Progra6; Password=progra6"
+
+SCAFFOLD:
+
+Scaffold-DbContext -f "SERVER=.;DATABASE=Progra620241;INTEGRATED SECURITY=FALSE; TrustServerCertificate=True; Trusted_Connection=true; encrypt=false; User Id=Progra6; Password=progra6" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
